@@ -1,0 +1,131 @@
+body{
+    background-color: #000000;
+}
+.centre{
+    padding-top: 90px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 250%;
+    color: ivory;
+    position: absolute;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
+z-index: 99;
+font-weight: bold;
+}
+.baseline{
+    padding-top: 220px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 150%;
+    color: rgb(121, 121, 121);
+    position: absolute;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
+z-index: 99;
+}
+.meet{
+    top: 700px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    font-size: 250%;
+    color: ivory;
+    position: absolute;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
+z-index: 99;
+background-color: rgba(0, 0, 0, 0.1,5);
+
+
+}
+.telephone{
+position: absolute;
+left: auto;
+right: 20%;
+text-align: center;
+width: 250px;
+top: 900px;
+z-index: 99;
+}
+.carte{
+position: absolute;
+left: 20%;
+right: auto;
+text-align: center;
+width: 250px;
+top: 900px;
+z-index: 99;
+}
+
+.champagne{
+width: 1000px;
+padding-top: 20vh;
+    
+}
+div.champ{
+    position: absolute;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
+    
+}
+h2{
+    color: ivory;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
+padding-top: 165%;
+font-size: 40px;
+
+}
+.bg2{
+    width: 100%;
+    position: absolute;
+  top: 1810px;
+    
+}
+H3{
+    top: 2010px;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(54, 54, 54);
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    position: absolute;
+    text-align: center;
+    z-index: 99;
+}
+h4{
+    top: 1840px;
+    position: absolute;
+margin-left: auto;
+margin-right: auto;
+left: 0;
+right: 0;
+text-align: center;
+    color: rgb(54, 54, 54);
+    font-family: 'Raleway', sans-serif;
+    font-size: 45px;
+    z-index: 99;
+}
+
+@media only screen and (max-height: 665px){
+
+body{
+    display: none;
+}
+
+}
